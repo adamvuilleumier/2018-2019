@@ -2,6 +2,8 @@
 
 This repository contains my classwork and independent projects from January 2019 - December 2019.
 
+-----------------------------------------------------------------------------------------------------
+
 GUESSING MACHINE - algorithm for guessing a user-generated number 1-100
 
 RPS - rock paper scissors game
